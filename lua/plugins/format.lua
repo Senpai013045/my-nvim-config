@@ -26,6 +26,7 @@ return {
 			html = { "prettierd" },
 			json = { "prettierd" },
 			markdown = { "prettierd" },
+			astro = { "prettierd" },
 		},
 	},
 }
